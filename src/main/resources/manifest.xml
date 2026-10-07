@@ -7,8 +7,8 @@
 <Plugin certificationLevel="None"
 		name="motd"
 		displayName="Message Of The Day"
-		minSystemVersion="8.0"
-		maxSystemVersion="8.4"
+		minSystemVersion="9.0"
+		maxSystemVersion="9.0"
 		version="%%VERSION%%"
 		rightRequired="ViewMessageOfTheDayRight"
 >
